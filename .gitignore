@@ -1,0 +1,23 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Virtual Environments
+venv/
+env/
+.env
+
+# VS Code
+.vscode/
+
+# Power BI
+*.pbix.tmp
+*.pbit.tmp
+
+# OS files
+.DS_Store
+Thumbs.db
